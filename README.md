@@ -1,3 +1,3 @@
 this is the practice test 
-Today is Git practice task performed at 9am 
-Update from main branch
+Today is Git practice task performed at 9am
+Update from update-readme branch
